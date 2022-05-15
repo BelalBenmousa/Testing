@@ -12,6 +12,7 @@ public class CreacioExepcioTest  {
       //  System.out.println(boom);
         int boom = creacioExepcio.getArray()[10];
         System.out.println(boom);
+
     }
 
 }
